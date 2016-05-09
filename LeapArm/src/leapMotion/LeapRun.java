@@ -14,11 +14,11 @@ import com.leapmotion.leap.Gesture.State;
 public class LeapRun {
 	
 	private Controller controller;
-	private SampleListener listener;
+	private LeapListener listener;
 	
 	public LeapRun () {
 		// Create a sample listener and controller
-		listener = new SampleListener();
+		listener = new LeapListener();
         controller = new Controller();
 
         // Have the sample listener receive events from the controller

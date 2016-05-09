@@ -11,7 +11,7 @@ package leapMotion;
 import com.leapmotion.leap.*;
 import com.leapmotion.leap.Gesture.State;
 
-class SampleListener extends Listener {
+class LeapListener extends Listener {
 	
     public void onInit(Controller controller) {
         System.out.println("Initialized");
