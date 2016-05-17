@@ -1,0 +1,10 @@
+*.project
+.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/segments_3
+.metadata/.lock
+*.log
+.metadata/.mylyn/.taskListIndex/segments.gen
+*.class
+LeapArm/.settings/org.eclipse.jdt.core.prefs
+*.tis
+.recommenders/index/http___download_eclipse_org_recommenders_models_mars_/_1.tii
+*.nrm
